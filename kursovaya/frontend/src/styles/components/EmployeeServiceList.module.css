@@ -1,0 +1,51 @@
+.container {
+    max-width: 600px !important;
+    margin: 0 auto !important;
+    padding: 20px !important;
+  }
+  
+  .title {
+    font-size: 24px !important;
+    margin-bottom: 20px !important;
+  }
+  
+  .form {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  
+  .field {
+    margin-bottom: 20px !important;
+  }
+  
+  .label {
+    font-weight: bold !important;
+    margin-bottom: 5px !important;
+  }
+  
+  .input {
+    padding: 10px;
+    border: 1px solid #ccc !important;
+    border-radius: 4px !important;
+    font-size: 16px !important;
+  }
+  
+  .button {
+    padding: 10px 20px !important;
+    background-color: #007bff !important;
+    color: #fff !important;
+    border: none !important;
+    border-radius: 4px !important;
+    font-size: 16px !important;
+    cursor: pointer !important;
+  }
+  
+  .button:hover {
+    background-color: #0056b3 !important;
+  }
+  .td{
+    background: rgb(248, 255, 255) !important;
+  }
+  .th{
+    background: rgb(227, 255, 254) !important;
+  }
